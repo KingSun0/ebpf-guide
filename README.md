@@ -1,4 +1,3 @@
-# ebpf-guide
 # eBPF指南
 ### ebpf指南开源文档：
 #### eBPF基础
