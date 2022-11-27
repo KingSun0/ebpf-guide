@@ -10,7 +10,6 @@
 - 更多更好的内容，请访问[996station技术栈](https://www.996station.com)
 
 ## 指南目录
-- **移动安全指南**
 - **eBPF指南**
     - eBPF基础
         - [eBPF完全入门指南](https://guide.996station.com/#/ebpf-guide/eBPF基础/eBPF完全入门指南.md)
